@@ -1,0 +1,282 @@
+.btn{
+    width: 40%;
+    background-color: rgba(0, 128, 0, 0.904);
+    border: none;
+    font-size: 14px;
+
+}
+.btn img{
+    border-radius: 2px;
+ 
+}
+.navv input{
+    padding-left: -40%;
+    border-radius: 4px;
+    width: 30px;
+    border-color: rgb(204, 204, 204);
+}
+.but{
+    width: 140px;
+    font-size: 15px;
+    border-radius: 13px;
+    color: green;
+    padding-top: -9%;
+    padding-bottom: 3%;
+    height: 55px;
+    border: none;
+    
+}
+select{
+    border: none;
+}
+.img{
+    width: 66%;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 990%;
+}
+.li{
+    list-style-type: none;
+    padding: 4%;
+    
+}
+.login{
+    display: flex;
+}
+.log{
+    padding-left:5%;
+    padding-right: 5%;
+    margin-right: 6%;
+    margin-left: 6%;
+    text-align: left;
+    padding-top: 2%;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    border: 2px solid whitesmoke;
+    border-radius: 16px ;
+}
+.log input{
+    width: 400px;
+    background-color: rgb(230, 245, 252);
+    border: none;
+    height: 30px;
+    /* box-shadow: 2px 2px 5px rgb(221, 221, 221); */
+}
+.h66{
+    color: black;
+    font-size: 14px;
+}
+.h66 a{
+    text-decoration: none;
+    color: white;
+    margin-right: 27%;
+}
+.h66 button{
+    width: 22%;
+    height: 40px;
+    color: white;
+}
+.imgg{
+ padding-left: 35%;
+ padding-top: 17%;
+}
+.h5{
+    text-align: center;
+}
+.hp{
+    text-align: center;
+}
+.pp{
+    font-size: 30px;
+    padding-top: 12%;
+    padding-right: 9%;
+    color: white;
+}
+
+.logimg{
+    padding-left: 7%;
+    border: 2px solid black;
+    margin-top: 18%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20%;
+    border-radius: 16px ;
+    background-color: rgba(173, 173, 173, 0.199);
+    border: none;
+}
+
+.img1{
+    padding-left: 6%;
+}
+.h6{
+    text-align: center;
+    color: black;
+    font-size: 14px;
+  background-color: rgb(236, 234, 234);
+  padding: 3%;
+}
+.select{
+    line-height: 30px;
+}
+.li2{
+    list-style-type: none;
+    line-height: 60px;
+    
+}
+.item{
+    margin-left: 60%;
+    padding-top: 2%;
+    
+}
+.search{
+    border-radius: 5px;
+    height: 35px;
+    width: 40px;
+    margin-left: -90% !important;
+    border: 2px 2px solid black;
+    border-color: rgb(182, 182, 182);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: gray;
+}
+/* .profile{
+    text-align: center;
+    margin-left: 29%;
+    margin-top: 6%;
+} */
+.box img{
+    margin-top: 100%;
+    width: 70%;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 190px;
+    margin-left: 3%;
+}
+.span{
+    font-size: 40px;
+}
+.span2{
+    text-shadow: 2px 2px 5px rgb(197, 195, 195);
+    font-size: 69px;
+}
+.h1{
+    line-height: 60px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 10000;
+}
+h6{
+    color: whitesmoke;
+}
+.img1{
+    padding-bottom: 9%;
+}
+.h1 p{
+    font-size: 60px;
+    padding: 10%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+.forget{
+    padding-left: 68%;
+    color: green;
+}
+.h1 i{
+    font-size: 20px;
+    color: white;
+}
+.nav-item{ 
+    width: 230px;
+    margin-top: 1%;
+
+
+}
+
+.head{
+    text-shadow: 2px 2px 5px rgb(134, 134, 134);
+    color: green;
+    margin-right:890px;
+}
+
+
+.dropbtn{
+    background-color:gray;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    width: 200px;
+  }
+  .dropdown{
+    position:relative;
+    display: inline-block;
+    margin-bottom: 40%;
+    margin-left: 80%;
+
+  }
+  .dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a{
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+width: 300px;
+  }
+  .dropdown-content a:hover{
+    background-color: #ddd;
+  }
+  .dropdown:hover .dropdown-content{
+    display: block;
+  }
+  .dropdown:hover .dropbtn{
+    background-color: #3e8e41;
+  }
+  td a{
+    color: rgba(1, 56, 1, 0.822);
+    font-size: 13px;
+  }
+
+/* .drop{
+    display: block;
+}
+
+#ccc{
+    display: block;
+} */
+
+@media (max-width:900px) {
+   .head{
+margin-right: 27%;
+    }
+    .nav-item button{
+        width: 60px;
+    }
+    .hhh{
+        display: none;
+    }
+    .log{
+        width: 100%;
+    }
+}
+
+
+/* .img img{
+    height: 500px;
+    padding: 10%;
+    padding-right: 6%;
+border-radius: 60%/100% 100% 0% 0%;
+} */
